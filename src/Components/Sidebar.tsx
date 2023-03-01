@@ -112,7 +112,7 @@ const SidebarContent = ({ onClose, ...rest }: SidebarProps) => {
                     fontWeight="bold"
                     lineHeight="1.5rem"
                 >
-                    АЛГОРИТМЫ СОРТИРВКИ
+                    АЛГОРИТМЫ СОРТИРОВКИ
                 </Text>
                 <CloseButton
                     display={{ base: "flex", md: "none" }}
